@@ -1,0 +1,6 @@
+framework module Pods_MarsPlay {
+  umbrella header "Pods-MarsPlay-umbrella.h"
+
+  export *
+  module * { export * }
+}
